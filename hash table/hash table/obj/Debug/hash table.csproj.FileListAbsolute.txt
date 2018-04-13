@@ -1,0 +1,7 @@
+C:\Users\motya\source\repos\hash table\hash table\obj\Debug\hash table.csprojResolveAssemblyReference.cache
+C:\Users\motya\source\repos\hash table\hash table\obj\Debug\hash table.csproj.CoreCompileInputs.cache
+C:\Users\motya\source\repos\hash table\hash table\bin\Debug\hash table.exe.config
+C:\Users\motya\source\repos\hash table\hash table\bin\Debug\hash table.exe
+C:\Users\motya\source\repos\hash table\hash table\bin\Debug\hash table.pdb
+C:\Users\motya\source\repos\hash table\hash table\obj\Debug\hash table.exe
+C:\Users\motya\source\repos\hash table\hash table\obj\Debug\hash table.pdb

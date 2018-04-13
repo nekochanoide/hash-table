@@ -1,0 +1,20 @@
+C:\Users\motya\source\repos\hash table\hashTable.Tests\obj\Debug\hashTable.Tests.csprojResolveAssemblyReference.cache
+C:\Users\motya\source\repos\hash table\hashTable.Tests\obj\Debug\hashTable.Tests.csproj.CoreCompileInputs.cache
+C:\Users\motya\source\repos\hash table\hashTable.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\motya\source\repos\hash table\hashTable.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\motya\source\repos\hash table\hashTable.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\motya\source\repos\hash table\hashTable.Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\motya\source\repos\hash table\hashTable.Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\motya\source\repos\hash table\hashTable.Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\motya\source\repos\hash table\hashTable.Tests\bin\Debug\hashTable.Tests.dll
+C:\Users\motya\source\repos\hash table\hashTable.Tests\bin\Debug\hashTable.Tests.pdb
+C:\Users\motya\source\repos\hash table\hashTable.Tests\bin\Debug\hash table.exe
+C:\Users\motya\source\repos\hash table\hashTable.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\motya\source\repos\hash table\hashTable.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\motya\source\repos\hash table\hashTable.Tests\bin\Debug\hash table.pdb
+C:\Users\motya\source\repos\hash table\hashTable.Tests\bin\Debug\hash table.exe.config
+C:\Users\motya\source\repos\hash table\hashTable.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\motya\source\repos\hash table\hashTable.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\motya\source\repos\hash table\hashTable.Tests\obj\Debug\hashTable.Tests.csproj.CopyComplete
+C:\Users\motya\source\repos\hash table\hashTable.Tests\obj\Debug\hashTable.Tests.dll
+C:\Users\motya\source\repos\hash table\hashTable.Tests\obj\Debug\hashTable.Tests.pdb
